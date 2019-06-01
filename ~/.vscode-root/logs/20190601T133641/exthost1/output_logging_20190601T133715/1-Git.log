@@ -309,3 +309,115 @@ fatal: no upstream configured for branch 'master'
 fatal: no upstream configured for branch 'master'
 > git for-each-ref --format %(refname) %(objectname) --sort -committerdate
 > git remote --verbose
+> git show :src/App.js
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse dev
+> git rev-parse --symbolic-full-name dev@{u}
+fatal: no upstream configured for branch 'dev'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :src/components/CourseList.js
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse dev
+> git rev-parse --symbolic-full-name dev@{u}
+fatal: no upstream configured for branch 'dev'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :src/components/NavBar.js
+> git show :src/components/CourseList.js
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse dev
+> git rev-parse --symbolic-full-name dev@{u}
+fatal: no upstream configured for branch 'dev'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :src/components/NavBar.js
+> git show :src/App.js
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse dev
+> git rev-parse --symbolic-full-name dev@{u}
+fatal: no upstream configured for branch 'dev'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :src/components/CourseList.js
+> git show :src/App.js
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse dev
+> git rev-parse --symbolic-full-name dev@{u}
+fatal: no upstream configured for branch 'dev'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :src/App.js
+> git show :src/components/CourseList.js
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse dev
+> git rev-parse --symbolic-full-name dev@{u}
+fatal: no upstream configured for branch 'dev'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse dev
+> git rev-parse --symbolic-full-name dev@{u}
+fatal: no upstream configured for branch 'dev'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :src/components/Course.js
+> git check-ignore -z --stdin
+> git status -z -u
+> git ls-files --stage -- src/components/
+> git symbolic-ref --short HEAD
+> git rev-parse dev
+> git rev-parse --symbolic-full-name dev@{u}
+fatal: no upstream configured for branch 'dev'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse dev
+> git rev-parse --symbolic-full-name dev@{u}
+fatal: no upstream configured for branch 'dev'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse dev
+> git rev-parse --symbolic-full-name dev@{u}
+fatal: no upstream configured for branch 'dev'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse dev
+> git rev-parse --symbolic-full-name dev@{u}
+fatal: no upstream configured for branch 'dev'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse dev
+> git rev-parse --symbolic-full-name dev@{u}
+fatal: no upstream configured for branch 'dev'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :src/components/CourseList.js
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse dev
+> git rev-parse --symbolic-full-name dev@{u}
+fatal: no upstream configured for branch 'dev'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse dev
+> git rev-parse --symbolic-full-name dev@{u}
+fatal: no upstream configured for branch 'dev'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose

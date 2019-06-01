@@ -5,8 +5,8 @@ import * as contentful from 'contentful'
 
 import Course from '../components/Course'
 
-const SPACE_ID = '[INSERT CONTENTFUL SPACE ID]'
-const ACCESS_TOKEN = '[INSERT CONTENTFUL ACCESS TOKEN]'
+const SPACE_ID = 'jfncfjb7ouef'
+const ACCESS_TOKEN = 'courses'
 
 const client = contentful.createClient({
     space: SPACE_ID,
@@ -17,6 +17,11 @@ class CourseList extends Component {
     state = {
         courses: [],
         searchString: ''
+    }
+
+    constructor(){
+        super()
+        this.getCourses()
     }
 
     getCourses = () => {
@@ -68,3 +73,5 @@ class CourseList extends Component {
         )
     }
 }
+
+export default CourseList
